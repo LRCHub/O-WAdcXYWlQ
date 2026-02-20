@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一透星",
+  "base_artist": "PIKASONIC",
+  "createdAt": "2026-02-20T10:51:09.163479Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一透星",
+      "artist": "PIKASONIC, nakotanmaru",
+      "has_synced": false,
+      "path": "select/pl_01_一透星_PIKASONIC,_nakotanmaru.txt"
+    }
+  ]
+}
